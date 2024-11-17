@@ -1,0 +1,1 @@
+This program is to test our knowledge on abstact classes, theres an abstract class with 4 abstract methodos that child class inherits and overrides. There is also some default methdos that print "i love machine learning".
